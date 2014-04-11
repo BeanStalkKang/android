@@ -429,9 +429,9 @@
   <project path="prebuilts/devtools" name="platform/prebuilts/devtools" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="sabermodsmtoolchainsarmeabi48/code" remote="sabermod" revision="sm-kk-mr1" />
-  <!--<project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" groups="pdk,linux,arm" revision="master" remote="linaro" />-->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" groups="pdk,linux,arm" revision="master" remote="linaro" />
 
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" revision="sm-kk-mr1" />
+  <!--<project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" revision="sm-kk-mr1" />-->
 
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="linux" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" groups="linux" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
